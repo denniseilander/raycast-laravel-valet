@@ -37,6 +37,6 @@ Here are a few screenshots that showcase the main features of the Laravel Valet 
 
 Check out the public roadmap to see what's coming next for the Laravel Valet Raycast Extension:
 
-https://github.com/denniseilander/laravel-valet/projects
+https://github.com/users/denniseilander/projects/2
 
 I would love for you to be a part of the development process, so please feel free to contribute to the project or file an issue if you have any questions or suggestions.
